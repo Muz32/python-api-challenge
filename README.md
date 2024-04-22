@@ -6,7 +6,7 @@ This project explores weather patterns and visualizes geospatial data through AP
 
 ## Part 1: WeatherPy
 In this section, I analyzed the weather of approximately 600 random cities using API requests. The `WeatherPY.ipynb` Jupyter notebook contains the code for this analysis. Key visualizations include:
-- scatter plots to examine the correlation between latitude and weather attributes (Temperature, Humidity, Cloudiness, Wind Speed); and
+- scatter plots to examine the correlation between latitude and weather attributes (temperature, humidity, cloudiness, wind speed); and
 - linear regression models for both Northern and Southern Hemispheres to assess the relationship strength between latitude and weather variables.
 
 **Note:** The data reflects the weather conditions of random cities at the time of code execution, meaning the outputs may vary with each run. Discussions within the markdown cells are based on the outputs generated during the time of code execution.
