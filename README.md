@@ -18,7 +18,7 @@ The `VacationPY.ipynb` Jupyter notebook extends the analysis from Part 1. Using 
 - Retrieved and visualizde the nearest hotel information for each selected city using API calls.
 
 ### Data Sources
-The data for this project was retrieved via API calls from:
-- OpenWeatherMap: `http://api.openweathermap.org/data/2.5/weather`
-- Geoapify: `https://api.geoapify.com/v2/places`
+The data for this project was retrieved via API calls from the following websites:
+- OpenWeatherMap: https://openweathermap.org/
+- Geoapify: https://www.geoapify.com/
 
