@@ -22,8 +22,8 @@ Additional libraries may be required in your Jupyter notebook environment for th
 
 ### Data Sources
 The data for this project was retrieved via API calls from the following websites:
-- OpenWeatherMap: https://openweathermap.org/
-- Geoapify: https://www.geoapify.com/
+- https://openweathermap.org/
+- https://www.geoapify.com/
 
 To retrieve data successfully, API keys from the above sources must be included in the `api_keys.py` file.
 
