@@ -17,7 +17,7 @@ The `VacationPY.ipynb` Jupyter notebook extends the analysis from Part 1. Using 
 - filtered cities to identify those matching my ideal weather conditions for a vacation; and
 - retrieved and visualized the nearest hotel information for each selected city using API calls.
 
-#### Prerequisites
+### Prerequisites
 Additional libraries may be required in your Jupyter notebook environment for the code to execute successfully. Please ensure the following libraries are installed: hvplot, geoviews, and citipy.
 
 ### Data Sources
